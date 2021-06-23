@@ -1,5 +1,0 @@
-Weather Stats for - JALAHALLI  || 23 Jun 2021 | 10:40:14 AM
-Current temperature is: 29.19 deg C
-Current weather desc  :
-Current Humidity      :48%
-Current wind speed    :3.09kmph
